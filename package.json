@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "5.1.35",
+	"version": "5.1.36",
 	"description": "ctx-core local-storage",
 	"type": "module",
 	"main": "lib.js",
@@ -32,7 +32,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/logger": "^3.1.16",
-		"@ctx-core/object": "^8.0.12"
+		"@ctx-core/object": "^8.0.13"
 	},
 	"gitHead": "b302f787edc9ceced6e3aa00f656398a984f6618"
 }
