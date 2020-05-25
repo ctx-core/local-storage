@@ -2,6 +2,7 @@
 	"name": "@ctx-core/local-storage",
 	"version": "5.1.33",
 	"description": "ctx-core local-storage",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
