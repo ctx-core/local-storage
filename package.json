@@ -33,5 +33,5 @@
 		"@ctx-core/logger": "^3.1.21",
 		"@ctx-core/object": "^9.0.2"
 	},
-	"gitHead": "49e99fff87abc31182d2fa378405df36b6ef1437"
+	"gitHead": "31de5bd2049a0aff5482d6c4295f2668a9106d2e"
 }
