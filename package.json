@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "5.1.62",
+	"version": "5.1.63",
 	"description": "ctx-core local-storage",
 	"main": "./index.js",
 	"module": "./index.js",
