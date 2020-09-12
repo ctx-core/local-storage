@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "5.1.65",
+	"version": "5.1.66",
 	"description": "ctx-core local-storage",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^10.0.3"
+		"@ctx-core/object": "^10.0.4"
 	},
 	"gitHead": "d3490aacaf21e430877b9eeb977b5f98135ce7e3"
 }
