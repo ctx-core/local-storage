@@ -1,40 +1,40 @@
 {
-	"name": "@ctx-core/local-storage",
-	"version": "5.1.68",
-	"description": "ctx-core local-storage",
-	"keywords": [
-		"ctx-core",
-		"localStorage",
-		"local-storage"
-	],
-	"homepage": "https://github.com/ctx-core/local-storage#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/local-storage/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/local-storage/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@ctx-core/object": "workspace:*"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "e69c28d2ed2969615f6725447e6edec514e83a4d"
+  "name": "@ctx-core/local-storage",
+  "version": "5.1.69",
+  "description": "ctx-core local-storage",
+  "keywords": [
+    "ctx-core",
+    "localStorage",
+    "local-storage"
+  ],
+  "homepage": "https://github.com/ctx-core/local-storage#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/local-storage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/local-storage/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "./node_modules/.bin/tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@ctx-core/object": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "e69c28d2ed2969615f6725447e6edec514e83a4d"
 }
