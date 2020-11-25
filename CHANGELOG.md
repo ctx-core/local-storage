@@ -1,5 +1,17 @@
 # @ctx-core/local-storage
 
+## 6.1.0
+
+### Minor Changes
+
+- Extract separate modules
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.0
+
 ## 6.0.19
 
 ### Patch Changes
