@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 6.1.2
+
+### Patch Changes
+
+- typescript: ^4.1.2 -> ^4.1.3
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.2
+
 ## 6.1.1
 
 ### Patch Changes
