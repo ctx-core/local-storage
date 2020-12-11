@@ -1,5 +1,12 @@
 # @ctx-core/local-storage
 
+## 6.1.3
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.3
+
 ## 6.1.2
 
 ### Patch Changes
