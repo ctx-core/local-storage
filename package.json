@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "6.1.3",
+	"version": "6.1.4",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^15.0.3"
+		"@ctx-core/object": "workspace:^15.0.4"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
