@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 6.1.10
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.10
+
 ## 6.1.9
 
 ### Patch Changes
