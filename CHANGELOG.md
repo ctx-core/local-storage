@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 6.1.11
+
+### Patch Changes
+
+- @ctx-core/object@15.0.11
+
 ## 6.1.10
 
 ### Patch Changes
