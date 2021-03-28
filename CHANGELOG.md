@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 7.0.19
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.1
+
 ## 7.0.18
 
 ### Patch Changes
