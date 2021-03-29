@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 7.0.20
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.2
+
 ## 7.0.19
 
 ### Patch Changes
