@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 7.0.22
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.4
+
 ## 7.0.21
 
 ### Patch Changes
