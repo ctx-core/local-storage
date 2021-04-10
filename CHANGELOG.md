@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 7.0.23
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.22
 
 ### Patch Changes
