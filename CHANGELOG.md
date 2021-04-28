@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 7.0.31
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.5.13
+
 ## 7.0.30
 
 ### Patch Changes
