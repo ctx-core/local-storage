@@ -1,4 +1,4 @@
-export function set_localStorage_ctx(ctx) {
+export function set_localStorage_ctx(ctx:object) {
 	localStorage.setItem('ctx', JSON.stringify(ctx))
 	return ctx
 }

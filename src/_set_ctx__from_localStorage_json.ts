@@ -1,9 +1,9 @@
-export function _set_ctx__from_localStorage_json(scope__) {
-	const json = localStorage.getItem(scope__)
-	const set_ctx = {}
+export function _set_ctx_from_localStorage_json(in_scope:string) {
+	const json = localStorage.getItem(in_scope)
+	const set_ctx:Record<string, any> = {}
 	if (json) {
 		try {
-			set_ctx[scope__] = JSON.parse(json)
+			set_ctx[in_scope] = JSON.parse(json)
 		} catch (e) {
 			console.warn(`_set_ctx__from_localStorage_json|error|JSON.parse`)
 			console.warn(e)
@@ -11,4 +11,7 @@ export function _set_ctx__from_localStorage_json(scope__) {
 	}
 	return set_ctx
 }
-export { _set_ctx__from_localStorage_json as _ctx__set__json__from__localStorage }
+export {
+	_set_ctx_from_localStorage_json as _set_ctx__from_localStorage_json,
+	_set_ctx_from_localStorage_json as _ctx__set__json__from__localStorage
+}
