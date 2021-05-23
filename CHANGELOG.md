@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 7.1.7
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.1.6
 
 ### Patch Changes
