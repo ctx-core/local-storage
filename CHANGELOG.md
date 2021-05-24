@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 7.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.1.1
+
 ## 7.2.0
 
 ### Minor Changes
