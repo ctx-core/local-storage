@@ -1,5 +1,16 @@
 # @ctx-core/local-storage
 
+## 7.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.1.0
+
 ## 7.1.10
 
 ### Patch Changes
