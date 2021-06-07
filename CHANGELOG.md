@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 8.0.4
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.3
+
 ## 8.0.3
 
 ### Patch Changes
