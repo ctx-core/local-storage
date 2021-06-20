@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "9.0.5",
+	"version": "9.0.6",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 		"prepare": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^20.0.6"
+		"@ctx-core/object": "workspace:^20.0.7"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
