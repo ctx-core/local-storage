@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 9.0.9
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.1.1
+
 ## 9.0.8
 
 ### Patch Changes
