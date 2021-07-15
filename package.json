@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "10.0.1",
+	"version": "10.0.2",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -17,6 +17,7 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
+	"type": "module",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
@@ -28,7 +29,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^21.0.1"
+		"@ctx-core/object": "workspace:^21.0.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.5"
