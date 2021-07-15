@@ -1,4 +1,4 @@
-export function set_ctx_from_localStorage_json_(in_scope:string) {
+export function set_ctx_from_localStorage_json_(in_scope:string):Record<string, any> {
 	const json = localStorage.getItem(in_scope)
 	const set_ctx:Record<string, any> = {}
 	if (json) {

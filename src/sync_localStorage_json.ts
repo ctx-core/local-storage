@@ -1,4 +1,4 @@
-export function sync_localStorage_json<Val extends unknown = unknown>(key:string, value:Val) {
+export function sync_localStorage_json<Val extends unknown = unknown>(key:string, value:Val):Val {
 	if (value == null) {
 		localStorage.removeItem(key)
 	} else {

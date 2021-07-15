@@ -1,4 +1,4 @@
-export function sync_localStorage(key:string, value:any) {
+export function sync_localStorage(key:string, value:string):string {
 	if (value == null) {
 		localStorage.removeItem(key)
 	} else {

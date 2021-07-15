@@ -1,4 +1,4 @@
-export function load_localStorage_ctx() {
+export function load_localStorage_ctx<Ctx = any>():Ctx {
 	const localStorage_ctx_json = localStorage.getItem('ctx')
 	const ctx =
 		localStorage_ctx_json
