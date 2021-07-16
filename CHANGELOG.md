@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 10.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.3
+
 ## 10.0.3
 
 ### Patch Changes
