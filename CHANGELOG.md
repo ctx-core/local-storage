@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 10.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.7
+
 ## 10.0.7
 
 ### Patch Changes
