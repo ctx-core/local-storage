@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "10.0.16",
+	"version": "10.0.17",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -37,11 +37,11 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^21.0.20",
+		"@ctx-core/object": "workspace:^21.0.21",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {
-		"typescript": "^4.4.3"
+		"typescript": "^4.4.4"
 	},
 	"publishConfig": {
 		"access": "public",
