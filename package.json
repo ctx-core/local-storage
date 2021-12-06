@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "10.0.26",
+	"version": "10.0.27",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,6 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./src/index.ts",
 	"exports": {
