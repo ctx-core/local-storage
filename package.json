@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "10.0.29",
+	"version": "10.0.30",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -13,15 +13,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/local-storage/issues"
+		"url": "https://github.com/ctx-core/local-storage.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.1"
+		"@ctx-core/object": "workspace:^22.0.2"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
