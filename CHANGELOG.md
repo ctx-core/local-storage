@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 10.0.40
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/object@22.0.12
+
 ## 10.0.39
 
 ### Patch Changes
