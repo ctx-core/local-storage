@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 10.0.44
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/object@22.1.4
+
 ## 10.0.43
 
 ### Patch Changes
