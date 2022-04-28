@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 10.0.48
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.47
 
 ### Patch Changes
