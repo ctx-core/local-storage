@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 10.0.65
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/object@24.1.1
+
 ## 10.0.64
 
 ### Patch Changes
