@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 10.0.67
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 10.0.66
 
 ### Patch Changes
