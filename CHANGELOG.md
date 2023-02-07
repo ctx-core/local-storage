@@ -1,5 +1,20 @@
 # @ctx-core/local-storage
 
+## 11.0.0
+
+### Major Changes
+
+- - set_localStorage_ctx,assign_localStorage_ctx,load_localStorage_ctx,remove_localStorage_ctx
+
+### Minor Changes
+
+- _.ts=>_.js & \*.d.ts source files
+- from**localStorage_json**o* aliased by set_ctx_from_localStorage_json*
+
+  localStorage**json**sync aliased by sync_localStorage_json
+
+  localStorage\_\_sync aliased by sync_localStorage
+
 ## 10.0.69
 
 ### Patch Changes
