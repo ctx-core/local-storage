@@ -1,5 +1,13 @@
 # @ctx-core/local-storage
 
+## 11.0.48
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/object@27.4.23
+
 ## 11.0.47
 
 ### Patch Changes
