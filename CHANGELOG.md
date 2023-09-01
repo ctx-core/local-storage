@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 11.0.63
+
+### Patch Changes
+
+- @ctx-core/object: ^28.0.5 -> ^28.0.6
+
 ## 11.0.62
 
 ### Patch Changes
