@@ -1,6 +1,6 @@
 /**
- * @param key{string}
- * @param value{string}
+ * @param {string}key
+ * @param {string}value
  * @returns {string}
  */
 export function localStorage__sync(key, value) {

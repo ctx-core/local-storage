@@ -1,5 +1,5 @@
 /**
- * @param in_scope{string}
+ * @param {string}in_scope
  * @returns {*}
  * @private
  */
