@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 11.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 11.1.2
 
 ### Patch Changes
