@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "11.1.1",
+	"version": "11.1.2",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -20,6 +20,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./from__localStorage_json__o_",
 		"./localStorage__json__sync",
 		"./localStorage__sync"

@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 11.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 11.1.1
 
 ### Patch Changes
