@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 11.1.7
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+
 ## 11.1.6
 
 ### Patch Changes
