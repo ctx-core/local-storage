@@ -1,5 +1,11 @@
 # @ctx-core/local-storage
 
+## 11.1.11
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 11.1.10
 
 ### Patch Changes

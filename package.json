@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "11.1.10",
+	"version": "11.1.11",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,11 @@
 		"url": "https://github.com/ctx-core/local-storage.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-local-storage@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
