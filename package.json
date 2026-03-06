@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/local-storage",
-	"version": "11.1.12",
+	"version": "11.1.13",
 	"description": "ctx-core local-storage",
 	"keywords": [
 		"ctx-core",
